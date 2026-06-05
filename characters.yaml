@@ -1,0 +1,43 @@
+pages:
+  - name: Monkey D. Luffy
+    url: https://en.wikipedia.org/wiki/Monkey_D._Luffy
+
+  - name: Roronoa Zoro
+    url: https://en.wikipedia.org/wiki/Roronoa_Zoro
+
+  - name: Nami
+    url: https://en.wikipedia.org/wiki/Nami_(One_Piece)
+
+  - name: Usopp
+    url: https://en.wikipedia.org/wiki/Usopp
+
+  - name: Sanji
+    url: https://en.wikipedia.org/wiki/Sanji_(One_Piece)
+
+  - name: Tony Tony Chopper
+    url: https://en.wikipedia.org/wiki/Tony_Tony_Chopper
+
+  - name: Nico Robin
+    url: https://en.wikipedia.org/wiki/Nico_Robin
+
+  - name: Franky
+    url: https://en.wikipedia.org/wiki/Franky_(One_Piece)
+
+  - name: Brook
+    url: https://en.wikipedia.org/wiki/Brook_(One_Piece)
+
+  # - name: Straw Hats
+  #   url: https://en.wikipedia.org/wiki/Straw_Hats
+
+  # - name: One Piece Characters
+  #   url: https://en.wikipedia.org/wiki/List_of_One_Piece_characters
+
+  # - name: World Government Characters
+  #   url: https://en.wikipedia.org/wiki/World_Government_(One_Piece)
+
+  # - name: Other One Piece Pirates
+  #   url: https://en.wikipedia.org/wiki/List_of_One_Piece_pirates
+
+  - name: Four Emperors
+    url: https://en.wikipedia.org/wiki/Four_Emperors_(One_Piece)
+

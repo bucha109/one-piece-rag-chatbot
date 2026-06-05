@@ -1,0 +1,25 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+
+# Vector database
+.chroma_persistent_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Assignment / class files
+*.docx
+
+# Misc images not part of the project
+*.webp
+*.jpg
+*.jpeg
+*.png
